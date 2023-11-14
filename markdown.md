@@ -12,11 +12,11 @@ Generar Índice en Markdown
 Intertar hasta 5 niveles de títulos 
 
 ### Cursivas
-
+_HOLA_
 Frase en cursiva 
 
 ### Negrilla
-
+**HOLA**
 Frase en negrita
 
 ### Vinetas
